@@ -5,7 +5,7 @@
 ```
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/yolov7-object-cropping.git
+git clone https://github.com/abdallahbenothmentrabelsi/yolov7-object-detection-cropping.git
 ```
 - Goto the cloned folder.
 ```
@@ -35,5 +35,5 @@ python detect_and_crop.py --weights yolov7.pt --source "your video.mp4" -classes
 ### Results
 
 
-<img src="https://github.com/noorkhokhar99/yolov7-object-cropping/blob/main/Screen%20Shot%201444-03-29%20at%201.34.23%20PM.png">
+<img src="https://github.com/abdallahbenothmentrabelsi/yolov7-object-detection-cropping/blob/main/Screen%20Shot%201444-03-29%20at%201.34.23%20PM.png">
 
